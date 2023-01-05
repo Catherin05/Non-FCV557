@@ -1,0 +1,901 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="textview"><br> Non-FCV tobacco improvement started with selection from local types grown in the field rather than exotic introduction and further improvement was achieved through hybridization programmes. In the year 1950 the institute released its first FCV tobacco variety ‘Chatham’ through exotic introduction followed by two chewing tobacco varieties ‘Chama’ and ‘Podali’ in 1956 through local selection from the field crop.\n</br>
+        <br>\n</br>
+        <br>The other exotic introductions in FCV were Harrison Special, Delcrest, Virginia Gold etc. Various efforts are being made to exploit the wild species in the cultivar development programme. Genetic improvements have been made in a wide range of characteristics including pest resistance, physical attributes, agronomic performance, leaf quality and chemical composition of cured leaf. \n</br>
+        <br>\n</br>
+        <br> A unique feature of tobacco production in India is that both Flue-Cured Virginia (FCV) and non-FCV tobaccos are cultivated under widely varying agro-ecological situations. FCV, bidi, hookah, chewing, cigar-wrapper, cheroot, burley, oriental, HDBRG, lanka, pikka, natu etc., are the main types of tobacco grown in the country, with FCV and burley tobacco being the main exportable types.\n</br>
+        <br>\n</br>
+        <br>Tobacco is grown in as many as 15 states of India under different agroecological conditions. Gujarat, Andhra Pradesh (A.P.) and Karnataka occupy 1st, 2nd and 3rd positions, respectively in both area and production of tobacco in the country. The other states cultivating tobacco include Uttar Pradesh (U.P.), West Bengal (W.B.), Bihar, Tamil Nadu (T.N.) and Odisha. Wide diversity in tobacco types, bio-physical and socio-economic aspects of each tobacco production zone necessitates development of location specific tobacco varieties and agro-techniques suitable for each niche of production.\n</br>
+        <br>\n</br>
+        <br>The research on bidi, rustica, chewing and natu tobaccos cultivated in Gujarat, Uttar Pradesh, Bihar, Odisha and Andhra Pradesh was not covered by ICAR-CTRI and hence necessitated the establishment of the All India Coordinated Research Project (AICRP) on Tobacco. \n</br>
+        <br>\n</br>
+        <br><b> •Area, production and productivity\n</b>\n</br>
+<br> 1.	Area: 214374 ha   \n</br>
+<br> 2.	Production: 464870 tonnes  \n</br>
+<br> 3.	Productivity: 2168 kg/ha  \n</br>
+</string>
+    <string name="header">ALL INDIA NETWORK PROJECT ON TOBACCO <br> ICAR-CENTRAL TOBACCO RESEARCH INSTITUTE </br>RAJAHMUNDRY,AP:533105</string>
+    <string name="typesoftobacco">TYPES OF TOBACCO</string>
+    <string name="BIDI">BIDI</string>
+    <string name="BURLEY">BURLEY</string>
+    <string name="CHEWING">CHEWING</string>
+    <string name="CHEROOT">CHEROOT</string>
+    <string name="CIGAR">CIGAR</string>
+    <string name="JATI">JATI</string>
+    <string name="LANKA">LANKA</string>
+    <string name="MOTIHARI">MOTIHARI</string>
+    <string name="NATUPIKKA">NATU/PIKKA</string>
+    <string name="OREINTAL">ORIENTAL</string>
+    <string name="RUSTICA">RUSTICA</string>
+    <string name="GAP1">GAP</string>
+    <string name="SoilsandClimate">Soils and Climate</string>
+    <string name="Fieldcropmanagement">Field crop management</string>
+    <string name="Nurserymanagement">Nursery management</string>
+    <string name="Postharvestmanagement">Post harvest management</string>
+    <string name="Marketing">Marketing</string>
+
+
+    <string name="footer">©2022 Reserved to Central Tobacco Research Institute.</string>
+    <string name="text"><br><b> •Area, production and productivity\n</b>\n</br>
+        <br>\n</br>
+        <br> 1.	Area: 159658 ha \n</br>
+        <br>\n</br>
+        <br> 2.	Production: 234820 tonnes  \n</br>
+        <br>\n</br>
+        <br> 3. Productivity: 1471 kg/ha   \n</br>
+        <br>\n</br>
+        <br>\n</br>
+<br><b>  •States grown \n</b>\n</br>
+<br>1.	Andhra Pradesh \n</br>
+        <br>\n</br>
+<br>2.	Karnataka   \n</br>
+        <br>\n</br>
+        <br>\n</br>
+     <br><b>   •For more details download CTRI FCV tobacco mobile app  \n</b>\n</br>
+    </string>
+
+    <string name="ap">
+<br> Bidi tobacco is grown as sole crop under rainfed conditions in the Vertisols of Andhra Pradesh and its production is largely concentrated in Nandikotkur, Bramhanakotkur, Midthur, Orvakal and Jupadu Bunglow areas of Kurnool district in an area of 10,500 ha with a production of about 16.27 million kg and a productivity of 1550 kg/ha. </br>
+
+    </string>
+    <string name="tamilnadu">
+<br> Chewing tobacco cultivation in Tamil Nadu is concentrated in Dindigul, Erode, Coimbatore, Madurai, South Arcot, Nagapatnam, Salem, Thanjavur, Kanyakumari and Tirunelveli districts in an area of about 11000 ha. Chewing tobacco is grown on a wide range of soils which are alkaline with irrigation waters having high salt content. The productivity of chewing tobacco in Tami Nadu was increased by 46% through release of high yielding varieties.  </br>
+
+    </string>
+    <string name="rgujarat">
+<br> In Gujarat, Rustica grown in Sabarkantha, Banaskantha, Nadiad, Gandhinagar, Khambat, Mehsana, Kheda and Anand districts of Gujarat in rabi crop with 8 to 9 irrigations. High yielding Rustica tobacco varieties in Gujarat increased the yield by 122%.</br>
+
+    </string>
+
+    <string name="jwestbengal">
+<br>
+In West Bengal Jati tobacco (chewing) is grown on acidic, sandy and silty loams in Cooch Behar district in an area of 4000 ha.</br>
+
+    </string>
+    <string name="tnc">
+<br> ICAR - Central Tobacco Research Institute, Research Station, Vedasandur - 624 710, Tamil Nadu.
+
+ </br>
+ <br>Email: ctrirsvdr@yahoo.com</br>
+
+    </string>
+    <string name="nstation">
+<br> Indian council of Agriculture Research sanctioned a centre to Andhra Pradesh Agricultural University at Kavali of Nellore District of Andhra Pradesh under All India Coordinated Research Project on Tobacco to cater the needs of Southern Light Soil FCV tobacco growing areas of Andhra Pradesh in October, 1970. Consequent to the establishment of full -fledged Research station at Kandukur under Central Tobacco Research Institute, the Kavali centre was shifted to Venkataramannagudem of West Godavari district in June, 1978 to serve irrigated Natu tobacco growing areas of Andhra Pradesh. The venkataramannagudem centre under APAU was shifted to Nandyal from April, 1992 to work on cigarette Natu and Bidi tobacco.
+All India Network Project on Tobacco, with Regional Agricultural Research Station – Nandyal as sub center started functioning from April 1992, to conduct research on bidi tobacco as well as rainfed natu tobacco.
+
+
+ </br>
+
+
+    </string>
+
+    <string name="jstation">
+<br>Before the partition of Bengal (During pre-independence period) Cigar wrapper tobacco used to be grown in Rangpur district, now Bangladesh. As a result of the partition the important cigar tobacco belt was lost. But massive demand of cigar tobacco by the domestic cigar industries located at Tiruchinapalli and Dindigul necessitated the search for a suitable agro-climatic area to cater to the domestic need. Based on intensive pilot trials the district of Cooch Behar in west Bengal ( 26 21\' N latitude and 89 27 E longitude ) situated at the foot hill plains of the Himalayas, adjacent to Rangpur was found suitable for growing Cigar tobacco . In 1951 the Research Station at Dinhata was established by the then ICTC for exploring the possibility of growing cigar local tobacco and to develop improved package of practices for enhancing the yield and quality standards and to improve Tobacco farmers of the region through research works. Motihari and Jati types of tobacco are grown in area of 12,000 hectares covering mostly the northern part of West Bengal. The Research Station is working on Cigar wrapper, Jati and Motihari tobaccos by evolving high yielding varieties with better quality, management of pests and diseases, minimising the cost of cultivation, producing pure seed and seedlings for the benefit of the farmers and finding most suitable inter crops for tobacco.
+
+ </br>
+    </string>
+    <string name="rgstation">
+<br>Tobacco with the highest excise revenue earning agricultural commodity plays a vital role in Indian agricultural economy. Among different tobacco growing states, Gujarat is one of the largest rustica tobacco growing states in the country. Looking to its important economic role, University had sanctioned the Tobacco Research Project and Strengthening Research on Tobacco during the year plan and Non plan in 1984 to 85 with its head quarter at Ladol till today to intensify the research work being carried out on major problems of tobacco having regional and inter-regional significance. Ladol was sanctioned as one of volunteer centers under the AICRP on tobacco. The AICRP on tobacco was renamed as All India Network Project on Tobacco under the administrative control of the Director, CTRI, Rajahmundry with effect from 16 to 8 to 98. The center works to cater to the needs of rustica tobacco growing areas of the state.
+
+ </br>
+    </string>
+
+
+    <string name="mstation">
+<br>•Before the partition of Bengal (During pre-independence period) Cigar wrapper tobacco used to be grown in Rangpur district, now Bangladesh. As a result of the partition the important cigar tobacco belt was lost. But massive demand of cigar tobacco by the domestic cigar industries located at Tiruchinapalli and Dindigul necessitated the search for a suitable agro-climatic area to cater to the domestic need. Based on intensive pilot trials the district of Cooch Behar in west Bengal ( 26 21\’ N latitude and 89 27 E longitude ) situated at the foot hill plains of the Himalayas, adjacent to Rangpur was found suitable for growing Cigar tobacco . In 1951 the Research Station at Dinhata was established by the then ICTC for exploring the possibility of growing cigar local tobacco and to develop improved package of practices for enhancing the yield and quality standards and to improve Tobacco farmers of the region through research works. Motihari and Jati types of tobacco are grown in area of 12,000 hectares covering mostly the northern part of West Bengal. The Research Station is working on Cigar wrapper, Jati and Motihari tobaccos by evolving high yielding varieties with better quality, management of pests and diseases, minimising the cost of cultivation, producing pure seed and seedlings for the benefit of the farmers and finding most suitable inter crops for tobacco.
+
+ </br>
+    </string>
+
+    <string name="lstation">
+<br>
+    ICAR central tobacco research institute established in 1947 is mandated to conduct a basic and applied research on different tobacco types. Lanka tobacco is an air-cured tobacco exclusively grown on the banks and deltaic islands of Krishna and Godavari rivers in Andhra Pradesh. This tobacco is mainly used for handmade indigenous cheroots having characteristic aroma and pungent taste.
+</br>
+    </string>
+    <string name="jcontact">
+    <br> ICAR-CTRI Research Station, Dinhata – 736 135. West Bengal.
+
+    </br>
+    <br>Email:ctrirsdinhata@gmail.com</br>
+    </string>
+    <string name="ncontact">
+    <br> Regional Agricultural Research Station (RARS), Acharya N.G. Ranga Agricultural University (ANGRAU), Nandyal- 518 502. Kurnool district, Andhra Pradesh
+
+    </br>
+    <br>Email: adr.rarsnandyal@angrau.ac.in</br>
+    </string>
+    <string name="rgcontact">
+    <br> Agricultural Research Station, Sardarkrushinagar Dantiwada Agricultural University, Ladol 382 840, Vijapur Taluk,
+Mehsana District, Gujarat.
+
+
+    </br>
+    <br>Email: arsladol@sdau.edu.in</br>
+    </string>
+    <string name="mcontact">
+    <br>  ICAR-CTRI Research Station, Dinhata – 736 135. West Bengal.
+
+    </br>
+    <br>Email: ctrirsdinhata@gmail.com</br>
+    </string>
+    <string name="lcontact">
+    <br> ICAR- Central Tobacco Research Institute, Dr. N. C. Gopalachari Road, Bhaskar Nagar, Rajahmundry- 533105,A.P .
+
+    </br>
+    <br>Email:pmectri@gmail.com</br>
+    </string>
+    <string name="chc">
+<br> ICAR - Central Tobacco Research Institute, Research Station, Vedasandur - 624 710, Tamil Nadu.
+
+ </br>
+ <br>Email: ctrirsdinhata@gmail.com</br>
+
+    </string>
+    <string name="cic">
+<br>    ICAR-CTRI Research Station, Dinhata – 736 135. West Bengal.
+
+ </br>
+ <br>Email: ctrirsvdr@yahoo.com</br>
+
+    </string>
+
+    <string name="utcontact">
+<br>   Tobacco Research Station, Chandra Shekhar Azad University of Agriculture and Technology, Araul- 209 202, Kanpur Nagar district, Uttar Pradesh
+</br>
+ <br>Email:drakscsauk@gmail.com
+</br>
+    </string>
+    <string name="ocontact">
+<br>  AINPT, Centre for Pulses Research, P.O.: Krupasindhupur-761 001, Via. Nimakhandi, Ganjam District, Berhampur, Odisha
+</br>
+ <br>Email: oicainptobacco.ouat@gmail.com
+</br>
+    </string>
+    <string name="NODISHA">
+<br>  Pikka tobacco is an important tobacco cultivated in Odisha for chewing and cheroot purposes. It is grown in an area of 1900 ha with a production of about 0.11 million kg and a productivity of 692 kg/ha.
+</br>
+
+    </string>
+
+
+    <string name="utstation">
+<br>Hookah tobacco is mainly grown in Uttar Pradesh, Bihar, Punjab, Gujarat and West Bengal. Some of the Hookah tobacco can also be used as chewing tobacco or vice-versa depending upon the method of curing. In Uttar Pradesh, Hookah tobacco is grown mainy on the alluvial soils and is grown in area of about 23000 ha as irrigated crop during rabi and summer seasons. It is mainly used for Hookah and chewing purpose. It fetches sizeable income to the farmers, traders and Government and provides employment to large number of people involved in its cultivation, curing’ grading, processing, marketing etc. Hookah tobacco is used in preparation of tobacco products viz., chewing (Khaini), Zarda, Hookah tobacco paste, quiwam, tooth powder (Gul), Paan Masala, Gutaka etc.
+During seventh plan, the AINPT centre was sanctioned for conducting the location specific research on bidi and rustica tobacco under the administrative control of Chandra Sekhar Azad University of Agriculture and Technology, Kanpur U.P., which started functioning from 1988-89 at Saraimira then shifted to Araul, Kanpur in 2004. Tobacco Research Station, Araul is situated about 65 Km away from the west side of Kanpur city adjoining Araul town.
+ </br>
+    </string>
+
+
+    <string name="tns">
+<br> Considering the economic importance of tobacco and the need for research and development support to enhance the productivity and returns to the growers, the Central Tobacco Research Institute- Research Station was established in 1948 at Vedasandur by the erstwhile Indian Central Tobacco Committee and the control was transferred to Indian Council of Agricultural Research in 1969. Vedasandur located at an altitude of 76.2 m, 10032\’ N latitude and 77057\’ E longitude. The average annual rainfall received is about 750-850 mm in 40-45 rainy days primarily during the North East Monsoon. The soils are neutral to moderately alkaline, calcareous and gravelly in nature.
+
+ </br>
+
+
+    </string>
+    <string name="natupikka">
+<br> Natu tobacco leaf which is used for manufacturing of cigarettes has to be thin in texture with a pleasing aroma and moderate strength, where as that used for cheroot, chewing and snuff are strong in aroma and high in nicotine. The Cheroot natu locally known as pikka tobacco is cultivated on red sandy soils of Ganjam, Parlakhemundhi and Gajapati districts of Odisha state. Pikka tobacco is also used for kharamasala and snuff purposes. The crop is raised on medium to heavy black soils of pH ranging from 7.0 to 8.5 in Guntur, Krishna and Kurnool districts of Andhra Pradesh on the conserved soil moisture. The unirrigated crop grown on black soils is given a moderate manuring. This tobacco is also grown in sandy to sandy loams with low organic carbon, low in available N, P and K as an irrigated crop in East Godavari, West Godavari and Krishna districts. The irrigated crop on light soils receive very heavy manuring by way of organic manures, FYM, organic cakes etc. The leaf is used for blending in low cost cigarettes and handmade cheroots for local consumption. Natu tobacco yields in Andhra Pradesh were increased by 73% by high yielding varieties
+
+ </br>
+
+
+    </string>
+
+    <string name="cheroot">
+<br> Dark air-cured tobacco types like lanka, rainfed and irrigated natu, pikka and cheroot tobaccos are grown in Andhra Pradesh, Odisha and Tamil Nadu are used for making country cheroots
+In Tamil Nadu, country Cheroot tobacco is mostly grown in Salem, Madurai, Coimbatore and North Arcot districts of Tamil Nadu. Two types of country cheroot tobaccos i.e. the narrow leaf type and broad leaf type are cultivated, the former confined to Erode district and the later in Salem districts of Tamil Nadu in an area of about 1200 ha. This tobacco is cultivated in both heavy and light soils as an irrigated crop. The color of the cured leaf used in cheroot is dark brown or almost black and the texture varies from thin to medium. The produce finds its way for the manufacture of handmade country cheroots for consumption in Tamil Nadu as well as adjoining States of Kerala, Andhra Pradesh and Karnataka.
+
+
+ </br>
+
+
+    </string>
+
+    <string name="lanka">
+<br> Lanka tobacco is an indigenous air-cured tobacco type used for Cheroot making. It has excellent aroma and physical characteristics suitable for manufacture of high quality cheroots. This type of tobacco is preferred for its characteristic pungent taste and aroma. Lanka tobacco is exclusively grown on the banks and deltaic islands of Krishna and Godavari rivers in Andhra Pradesh. The soils which are sandy to loam in textures are derived from the recent alluvium deposited annually by the rivers Krishna and Godavari during floods. Some of these soils, which are submerged during floods every year are silty in nature and therefore highly fertile. These soils also conserve high moisture and tobacco is cultivated year after year on such low lying lankas. This tobacco is used for handmade cheroots for local consumption.
+ </br>
+
+
+    </string>
+    <string name="cigar">
+<br>Cigar is a rolled bundle of dried and fermented tobacco leaves. Cigar tobacco is mostly grown in Madurai and Trichy districts of Tamil Nadu and West Bengal. Cigar tobacco leaf is brown to dark brown in colour with thin texture and mild to medium flavor, while the cured leaf Is having dark brown or almost black colour with thin to medium texture
+ Three types of leaves are used in the composition of cigars. First is the filler leaf that is used to fill in the gaps inside the cigars. If full leaves are used, then it is said to be composed of long filler and when small bits of leaves are used then it is said to be made of short filler. Second is the binder leaf which holds the filler together. These are thick and harder and have high elasticity and durability. These leaves may show some physical blemishes or lack of uniform colour. The outermost layer is the wrapper which is the most expensive component of cigars that determines the colour and flavor. The wrapper must be uniform in appearance and smooth ill texture thereby are grown under direct sunlight for the development of smooth and thin veined leaves. While those leaves grown under shade produces more course texture and strong flavor. </br>
+    </string>
+
+    <string name="chs">
+<br> Considering the economic importance of tobacco and the need for research and development support to enhance the productivity and returns to the growers, the Central Tobacco Research Institute- Research Station was established in 1948 at Vedasandur by the erstwhile Indian Central Tobacco Committee and the control was transferred to Indian Council of Agricultural Research in 1969. Vedasandur located at an altitude of 76.2 m, 10032\’ N latitude and 77057\’ E longitude. The average annual rainfall received is about 750-850 mm in 40-45 rainy days primarily during the North East Monsoon. The soils are neutral to moderately alkaline, calcareous and gravelly in nature.
+
+
+ </br>
+
+
+    </string>
+    <string name="cis">
+<br> Before the partition of Bengal (During pre-independence period) Cigar wrapper tobacco used to be grown in Rangpur district, now Bangladesh. As a result of the partition the important cigar tobacco belt was lost. But massive demand of cigar tobacco by the domestic cigar industries located at Tiruchinapalli and Dindigul necessitated the search for a suitable agro-climatic area to cater to the domestic need. Based on intensive pilot trials the district of Cooch Behar in west Bengal ( 26 21\' N latitude and 89 27 E longitude ) situated at the foot hill plains of the Himalayas, adjacent to Rangpur was found suitable for growing Cigar tobacco . In 1951 the Research Station at Dinhata was established by the then ICTC for exploring the possibility of growing cigar local tobacco and to develop improved package of practices for enhancing the yield and quality standards and to improve Tobacco farmers of the region through research works. Motihari and Jati types of tobacco are grown in area of 12,000 hectares covering mostly the northern part of West Bengal. The Research Station is working on Cigar wrapper, Jati and Motihari tobaccos by evolving high yielding varieties with better quality, management of pests and diseases, minimising the cost of cultivation, producing pure seed and seedlings for the benefit of the farmers and finding most suitable inter crops for tobacco.
+
+
+ </br>
+
+
+    </string>
+    <string name="andhrapradesh">
+<br> Burley tobacco is grown in an area of 2000 ha in agency tract of Yeleswaram. At present burley tobacco cultivation is shifted to Vinukonda area of Guntur district and is grown in an area of 20,000 to 25,000 ha. </br>
+
+    </string>
+
+    <string name="aps">
+<br> Burley tobacco varieties are exotic introductions, grown in Coastal Andhra Pradesh, for blending with cigarette tobacco. Cured leaf is rich tan brown colour, thin, elastic and has high filling value with least shatteribility. It is grown during monsoon season in agency areas of East and West Godavari districts of Andhra Pradesh. Soils are generally sandy loams neutral to acidic (pH 5.5 to 6.5), low in soluble salts, chlorides, organic carbon, available nitrogen and available phosphorus. Entire burley tobacco produced in the agency area of Andhra Pradesh is exported. In view of the growing demand for high nicotine burley, its cultivation is shifted to Vinukonda area of the Guntur district to an extent of 13,000 ha, where the crop and is grown under semi monsoon condition. Burley tobacco yields are increased by 6% through development of high yielding varieties.</br>
+
+    </string>
+
+    <string name="apc">
+<br>ICAR- Central Tobacco Research Institute, Rajahmundry.</br>
+    </string>
+
+
+    <string name="st"><br><b> •	ARS, Nandyal \n</b>\n</br>
+<br>\n</br>
+<br> Indian council of Agriculture Research sanctioned a centre to Andhra Pradesh Agricultural University at Kavali of Nellore District of Andhra Pradesh under All India Coordinated Research Project on Tobacco to cater the needs of Southern Light Soil FCV tobacco growing areas of Andhra Pradesh in October, 1970. Consequent to the establishment of full -fledged Research station at Kandukur under Central Tobacco Research Institute, the Kavali centre was shifted to Venkataramannagudem of West Godavari district in June, 1978 to serve irrigated Natu tobacco growing areas of Andhra Pradesh. The venkataramannagudem centre under APAU was shifted to Nandyal from April, 1992 to work on cigarette Natu and Bidi tobacco. \n</br>
+<br>\n</br>
+<br> Tobacco is a high value cash crop providing livelihood security to millions of people in India. Bidi rolling provides employment to Tribals who are involved in tendu leaf collection. Bidi tobacco is cultivated over an area of 8000-10000 ha in Nandikotkur and Bandi Atmakur area of Kurnool district as a rainfed kharif crop.  \n</br>
+<br>\n</br>
+<br> All India Network Project on Tobacco, with Regional Agricultural Research Station – Nandyal as sub center started functioning from April 1992, to conduct research on bidi tobacco as well as rainfed natu tobacco.  \n</br>
+</string>
+
+    <string name="ct"><br> Regional Agricultural Research Station (RARS), Acharya N.G. Ranga Agricultural University (ANGRAU), Nandyal- 518 502. Kurnool district, Andhra Pradesh. \n</br>
+
+
+    </string>
+    <string name="gajapati">
+        <br> <b>Yield:</b>1800 kg/ha \n</br>
+        <br> <b>Special Characters:</b>: Higher yielding\n</br>
+        <br> <b>Area Occupied:</b>Recommended for cultivation in Ganjam, Gajapati and Phulbani districts of Odisha\n</br>
+    </string>
+    <string name="BHAIRAVI">
+        <br> <b>Yield:</b>2600 kg/ha \n</br>
+        <br> <b>Special Characters:</b>: High yielding\n</br>
+        <br> <b>Area Occupied:</b>Traditional black soils in Guntur, Prakasam, Kurnool districts of Andhra Pradesh and Mahaboobnagar district of Telangana \n</br>
+    </string>
+    <string name="NATUSPECIAL">
+        <br> <b>Yield:</b> 1600 kg/ha\n</br>
+        <br> <b>Special Characters:</b>Withstands prolonged dry weather condition\n</br>
+        <br> <b>Area Occupied:</b>Natu tobacco growing areas of Guntur, Kurnool districts of Andhra Pradesh and Mahaboobnagar, Nalgonda and Khammam district of Telangana .\n</br>
+    </string>
+    <string name="VISWANTH">
+        <br> <b>Yield:</b> 2430 kg/ha\n</br>
+        <br> <b>Special Characters:</b>High yielding\n</br>
+        <br> <b>Area Occupied:</b>Natu tobacco growing belt in Guntur district of Andhra Pradesh \n</br>
+    </string>
+    <string name="PRABHAT">
+        <br> <b>Yield:</b> 1500 kg/ha \n</br>
+        <br> <b>Special Characters:</b>High yielding\n</br>
+        <br> <b>Area Occupied:</b>Natu tobacco growing tracts of Guntur and Kurnool district of Andhra Pradesh and areas around Sehore in Madhya Pradesh.\n</br>
+    </string>
+
+    <string name="gc1">
+        <br> <b>Yield:</b> 2693 kg/ha \n</br>
+        <br> <b>Special Characters:</b> High yielding, thicker than rustica local\n</br>
+        <br> <b>Area Occupied:</b>Rustica tobacco growing areas of Gujarat.\n</br>
+    </string>
+    <string name="gct2">
+        <br> <b>Yield:</b>3512 kg/ha \n</br>
+        <br> <b>Special Characters:</b> High Yielding\n</br>
+        <br> <b>Area Occupied:</b>Rustica tobacco growing areas of middle Gujarat.\n</br>
+    </string>
+    <string name="gct3">
+        <br> <b>Yield:</b>5986 kg/ha\n</br>
+        <br> <b>Special Characters:</b> High yielding and suitable for Lal Chopadia \n</br>
+        <br> <b>Area Occupied:</b>Rustica tobacco growing areas of North Gujarat.\n</br>
+    </string>
+    <string name="gct5">
+        <br> <b>Yield:</b> 4976 kg/ha\n</br>
+        <br> <b>Special Characters:</b>medium early maturing variety with high cured leaf yield and good leaf expansion.\n</br>
+        <br> <b>Area Occupied:</b>Rustica tobacco growing areas of North Gujarat.\n</br>
+    </string>
+    <string name="dct4">
+        <br> <b>Yield:</b>4900 kg/ha \n</br>
+        <br> <b>Special Characters:</b> High yielding\n</br>
+        <br> <b>Area Occupied:</b>Rustica tobacco growing areas of North Gujarat.\n</br>
+    </string>
+    <string name="TORSA">
+        <br> <b>Yield:</b> 2200 kg/ha \n</br>
+        <br> <b>Special Characters:</b> High Yielding\n</br>
+        <br> <b>Area Occupied:</b>Silty/ sandy loams of Motihari tobacco tract of Cooch Behar district\n</br>
+    </string>
+    <string name="DHARLA">
+        <br> <b>Yield:</b>2700 kg/ha \n</br>
+        <br> <b>Special Characters:</b>Tolerant to brown spot and frog-eye spot diseases\n</br>
+        <br> <b>Area Occupied:</b>North Bengal Zone.\n</br>
+    </string>
+    <string name="SONAR">
+        <br> <b>Yield:</b>1690 kg/ha \n</br>
+        <br> <b>Special Characters:</b>Early maturing and high yielding\n</br>
+        <br> <b>Area Occupied:</b> Motihari tobacco growing areas of North-West Bengal\n</br>
+    </string>
+    <string name="DD">
+        <br> <b>Yield:</b>1865 kg/ha \n</br>
+        <br> <b>Special Characters:</b>: Late maturing variety\n</br>
+        <br> <b>Area Occupied:</b> Motihari tobacco growing areas of West Bengal.\n</br>
+    </string>
+    <string name="ABD">
+        <br> <b>Yield:</b> 3100 kg/ha \n</br>
+        <br>\n</br>
+        <br> <b>Special Characters:</b> High yielding with good quality\n</br>
+        <br>\n</br>
+        <br> <b>Area Occupied:</b> bidi tobacco growing areas of Kurnool district of Andhra Pradesh.\n</br>
+    </string>
+    <string name="chama">
+        <br> <b>Yield:</b> 1800 kg/ha \n</br>
+        <br>\n</br>
+        <br> <b>Special Characters:</b> Late flowering and maturing, broader leaves, medium spangling\n</br>
+        <br>\n</br>
+        <br> <b>Area Occupied:</b> Jati tobacco growing areas of North Bengal\n</br>
+    </string>
+    <string name="manasi">
+        <br> <b>Yield:</b> 1700 kg/ha \n</br>
+        <br>\n</br>
+        <br> <b>Special Characters:</b> Tolerant to frog-eye spot, black shank, root-knot, hollow stalk and brown spot.\n</br>
+        <br>\n</br>
+        <br> <b>Area Occupied:</b> Sandy alluvial soil region of Jati tobacco tract of Cooch Behar District.\n</br>
+    </string>
+    <string name="podali">
+        <br> <b>Yield:</b> 1600 kg/ha \n</br>
+        <br>\n</br>
+        <br> <b>Special Characters:</b> Early maturing.\n</br>
+        <br>\n</br>
+        <br> <b>Area Occupied:</b>  Clay and Sandy loam soils of North Bengal.\n</br>
+    </string>
+
+    <string name="Nandayala">
+         <br> <b>•Yield:</b> 2150 kg/ha \n</br>
+        <br> <b>•Special Characters:</b> High yielding\n</br>
+        <br> <b>•Area Occupied:</b> Rainfed areas in the bidi tobacco growing areas of Kurnool district and all bidi growing areas of Andhra Pradesh.\n</br>
+
+    </string>
+
+    <string name="lankaspecial">
+         <br> <b>•Yield:</b> 2780 kg/ha \n</br>
+        <br> <b>•Special Characters:</b>Resistant to powdery mildewResistant to powdery mildew.\n</br>
+        <br> <b>•Area Occupied:</b> River-side Lankas of East Godavari district of Andhra Pradesh.\n</br>
+
+    </string>
+
+    <string name="dr1">
+         <br> <b>•Yield:</b> 2620 kg/ha \n</br>
+        <br> <b>•Special Characters:</b> High yielding\n</br>
+        <br> <b>•Area Occupied:</b> : River-side Lankas of East Godavari district of Andhra Pradesh.\n</br>
+
+    </string>
+
+
+    <string name="arr27">
+         <br> <b>•Yield:</b> 3400 kg/ha \n</br>
+        <br> <b>•Special Characters:</b> Resistant to TMV and leaf curl\n</br>
+        <br> <b>•Area Occupied:</b>hookah tobacco growing areas of Uttar Pradesh
+2.	Azad Kanchan
+ .\n</br>
+
+    </string>
+
+
+    <string name="azadkanchan">
+         <br> <b>•Yield:</b> 3000 kg/ha \n</br>
+        <br> <b>•Special Characters:</b> High yielding\n</br>
+        <br> <b>•Area Occupied:</b> Recommended as rabi crop in sandy loam and medium loam soils of Uttar Pradesh.\n</br>
+
+    </string>
+
+
+    <string name="gujarat"><br> Bidi tobacco is the major tobacco type grown in Anand, Kheda, Mahisagar, Vadodara and Panchmahals districts of Gujarat. In Gujarat tobacco is grown in an area of 1,10,000 ha with a production of about 230 million kg and a productivity of 2075 kg/ha. \n</br>
+
+    </string>
+    <string name="Bihar"><br> Chewing and hookah types of tobacco are grown on different types of soils in Bihar ranging from sandy loam soils of Vaishali, Samastipur, Muzaffarpur to medium and heavy soils of Purnea, Katihar and Saharsa districts. Main tobacco growing area in North Bihar consists of non-saline calcareous sandy loam soils with soil pH ranging from 7.5 to 8.5. Because of good moisture holding capacity tobacco crop is grown in certain pockets even without supplementary irrigation. Chewing tobacco in Bihar showed phenomenal increase in productivity by 141% due to development of high yielding varieties. \n</br>
+
+    </string>
+    <string name="mwestbengal"><br> Motihari (N. rustica) tobacco is cultivated in a total area of about 10,000 ha concentrated in Cooch Behar, Jalpaiguri, Malda and Mushidabad districts of North Bengal region. Soils are light in texture, sandy loams and silt loams, whitish grey to greyish in colour, well-drained and well-aerated. Rustica tobacco yields in West Bengal are increased by 60%. \n</br>
+
+    </string>
+
+
+    <string name="gs"><br> Tobacco with the highest excise revenue earning agricultural commodity plays a vital role in Indian agricultural economy. Among different tobacco growing states, Gujarat is one of the largest bidi tobacco growing states in the country. Looking to its important economic role, ICAR had sanctioned the All India Co-ordinated Research Project on Tobacco during the fourth five year plan in 1970-71 with its head quarter at Anand till   August 1998 to intensify the research work being carried out on major problems of tobacco having regional and inter-regional significance. Anand was sanctioned as one of the four main centers under the AICRP on tobacco, the other three being Rajahmundry, Pusa and Shimoga. \n</br>
+        <br> \n </br>
+        <br> The AICRP on tobacco was renamed as All India Network Project on Tobacco under the administrative control of the Director, CTRI, Rajahmundry with effect from 16-8-98. The center works through the co-ordination of multidisciplinary research by a team of scientists including Plant Breeder, Agronomist, Nematologist, Pathologist, and Soil chemist. The center works to cater to the needs of bidi and rustica tobacco growing areas of the state. \n</br>
+
+    </string>
+    <string name="BS"><br> Tobacco with the highest excise revenue earning agricultural commodity plays a vital role in Indian agricultural economy. Among different tobacco growing states, Gujarat is one of the largest bidi tobacco growing states in the country. Looking to its important economic role, ICAR had sanctioned the All India Co-ordinated Research Project on Tobacco during the fourth five year plan in 1970-71 with its head quarter at Anand till   August 1998 to intensify the research work being carried out on major problems of tobacco having regional and inter-regional significance. Anand was sanctioned as one of the four main centers under the AICRP on tobacco, the other three being Rajahmundry, Pusa and Shimoga. \n</br>
+        <br> \n </br>
+        <br> The AICRP on tobacco was renamed as All India Network Project on Tobacco under the administrative control of the Director, CTRI, Rajahmundry with effect from 16-8-98. The center works through the co-ordination of multidisciplinary research by a team of scientists including Plant Breeder, Agronomist, Nematologist, Pathologist, and Soil chemist. The center works to cater to the needs of bidi and rustica tobacco growing areas of the state. \n</br>
+
+    </string>
+
+    <string name="gc"><br> Unit Officer, Bidi Tobacco Research Station (BTRS), Anand Agricultural University (AAU), Anand – 388 110, Gujarat.  \n</br>
+
+
+    </string>
+    <string name="cgc"><br>Unit Officer, Bidi Tobacco Research Station (BTRS), Anand Agricultural University (AAU), Anand – 388 110, Gujarat.\n </br><br>Email: btrs_1947@yahoo.com</br>
+
+
+
+    </string>
+    <string name="cgs"><br> Tobacco with the highest excise revenue earning agricultural commodity plays a vital role in Indian agricultural economy. Among different tobacco growing states, Gujarat is one of the largest bidi tobacco growing states in the country. Looking to its important economic role, ICAR had sanctioned the All India Co-ordinated Research Project on Tobacco during the fourth five year plan in 1970-71 with its head quarter at Anand till   August 1998 to intensify the research work being carried out on major problems of tobacco having regional and inter-regional significance. Anand was sanctioned as one of the four main centers under the AICRP on tobacco, the other three being Rajahmundry, Pusa and Shimoga. The AICRP on tobacco was renamed as All India Network Project on Tobacco under the administrative control of the Director, CTRI, Rajahmundry with effect from 16-8-98. The center works through the co-ordination of multidisciplinary research by a team of scientists including Plant Breeder, Agronomist, Nematologist, Pathologist, and Soil chemist. The center works to cater to the needs of bidi and rustica tobacco growing areas of the state. \n</br>
+
+
+    </string>
+
+    <string name="cgujarat"><br> In Gujarat also chewing tobacco is grown in an area of 6000 ha on sandy loam light soils with alkaline reaction (soil pH 7.5 to 8.5) mainly in Kaira district. The chewing tobacco of this tract is known as Lal Chopadia. In Gujarat also chewing tobacco is grown in an area of 6000 ha on sandy loam light soils with alkaline reaction (soil pH 7.5 to 8.5) mainly in Kaira district. The chewing tobacco of this tract is known as Lal Chopadia. In Gujarat also chewing tobacco is grown in an area of 6000 ha on sandy loam light soils with alkaline reaction (soil pH 7.5 to 8.5) mainly in Kaira district. The chewing tobacco of this tract is known as Lal Chopadia.  \n</br>
+      </string>
+    <string name="krishna">
+        <br> <b>•Yield:</b>2250kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>high yielding. \n</br>
+        <br> <b>•Area Occupied:</b>Madurai and Trichy districts of Tamil Nadu\n</br>
+     </string>
+    <string name="sfive">
+        <br> <b>•Yield:</b>1476kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Resistant to TMV. \n</br>
+        <br> <b>•Area Occupied:</b>Cigar wrapper tobacco growing areas of North-West Bengal.\n</br>
+     </string>
+
+    <string name="SANGAMI">
+        <br> <b>•Yield:</b> 3265kg/ha . \n</br>
+        <br> <b>•Special Characters:</b>High yielding. \n</br>
+        <br> <b>•Area Occupied:</b>Cheroot tobacco tract of Bhavani, Kurichi and Anthiyur areas of Erode district and Edapady area of Salem district of Tamil Nadu.\n</br>
+     </string>
+    <string name="SENDARAPATTY">
+        <br> <b>•Yield:</b>2100kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High yielding. \n</br>
+        <br> <b>•Area Occupied:</b>Sendarapatty tract in Salem district of Tamil Nadu.\n</br>
+     </string>
+    <string name="BHAVANI">
+        <br> <b>•Yield:</b>2837kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High yielding. \n</br>
+        <br> <b>•Area Occupied:</b>Country cheroot tobacco tract of Bhavani area of Erode district, Tamil Nadu.\n</br>
+     </string>
+    <string name="ABHIRAMI">
+        <br> <b>•Yield:</b> 4000 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High in solanesol content . \n</br>
+        <br> <b>•Area Occupied:</b>Chewing tobacco tracts of Tamil Nadu.\n</br>
+     </string>
+    <string name="MEENASKHICR">
+        <br> <b>•Yield:</b> 3454 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Resistant to caterpillar, Spodoptera litura F. \n</br>
+        <br> <b>•Area Occupied:</b> Chewing tobacco tracts of Dindugal, Madurai, Erode and Coimbatore districts of Tamil Nadu .\n</br>
+     </string>
+    <string name="KAVIRI">
+        <br> <b>•Yield:</b> 3173 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High yielding. \n</br>
+        <br> <b>•Area Occupied:</b> Costal belt of Vedaranyam and Chidambaram areas of Tamil Nadu.\n</br>
+     </string>
+    <string name="MARAGADHAM">
+        <br> <b>•Yield:</b> 3013 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Smoke-cured . \n</br>
+        <br> <b>•Area Occupied:</b> Chewing tobacco growing areas of Tamil Nadu (Madurai and Coimbatore districts) .\n</br>
+     </string>
+    <string name="BHAGYALAKSHMI">
+        <br> <b>•Yield:</b>3532 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Sun cured . \n</br>
+        <br> <b>•Area Occupied:</b> Monnai chewing tobacco (sun-cured) area of Tamil Nadu (Madurai, Trichy and parts of Coimbatore districts).\n</br>
+     </string>
+    <string name="THANGAM">
+        <br> <b>•Yield:</b> 3226 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Smoke cured . \n</br>
+        <br> <b>•Area Occupied:</b> Chewing tobacco growing areas of Tamil Nadu (Madurai and Coimbatore districts).\n</br>
+     </string>
+    <string name="VAIRAM">
+        <br> <b>•Yield:</b> 2800 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Pit curing. \n</br>
+        <br> <b>•Area Occupied:</b> Tobacco growing areas of Coimbatore districts, Tamil Nadu .\n</br>
+     </string>
+    <string name="ABHIRAMICR">
+        <br> <b>•Yield:</b> 3700 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>resistant to caterpillar, Spodoptera litura F.. \n</br>
+        <br> <b>•Area Occupied:</b> Sun-cured chewing tobacco tracts of Dindugal, Madurai, Erode and Coimbatore districts of Tamil Nadu .\n</br>
+     </string>
+    <string name="KAMATCHI">
+        <br> <b>•Yield:</b> 4100 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Sun-cured tobacco with higher yields . \n</br>
+        <br> <b>•Area Occupied:</b>Chewing tobacco tracts of Tamil Nadu.\n</br>
+     </string>
+    <string name="MEENASKHI">
+        <br> <b>•Yield:</b> 3750 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High yielding and sun-cured. \n</br>
+        <br> <b>•Area Occupied:</b> Chewing tobacco tracts of Dindugal and Madurai districts of Tamil Nadu.\n</br>
+     </string>
+
+    <string name="gt6">
+        <br> <b>•Yield:</b> 2712 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High yielding suitable for both Lal and Kala Chopadia  . \n</br>
+        <br> <b>•Area Occupied:</b> Lal and Kala Chopadia tobacco growing areas of Gujarat .\n</br>
+     </string>
+    <string name="gt8">
+        <br> <b>•Yield:</b> 4469 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b> High yielding. \n</br>
+        <br> <b>•Area Occupied:</b> Kala Chopadia tobacco growing areas of Gujarat .\n</br>
+    </string>
+
+
+    <string name="LICHCHAVI">
+        <br> <b>•Yield:</b> 3500 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b> High yielding. \n</br>
+        <br> <b>•Area Occupied:</b> Suitable for North Bihar.\n</br>
+    </string>
+    <string name="VAISHALISPECIAL">
+        <br> <b>•Yield:</b> 2778 kg/ha \n</br>
+        <br> <b>•Special Characters:</b> Tolerant to black shank disease\n</br>
+        <br> <b>•Area Occupied:</b> Bandi type chewing tobacco growing tracts of North Bihar.\n</br>
+    </string>
+    <string name="PUSATOBACCO76">
+        <br> <b>•Yield:</b> 2600 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b> High yielding with good aroma and pungent taste.\n</br>
+        <br> <b>•Area Occupied:</b> Chewing tobacco growing areas of Samastipur and Muzafarpur districts of Bihar.\n</br>
+    </string>
+    <string name="PRABHA">
+        <br> <b>•Yield:</b> 2300 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High yielding with pungent taste.\n</br>
+        <br> <b>•Area Occupied:</b>Hookah and chewing tobacco growing areas of North Bihar.\n</br>
+    </string>
+    <string name="SONA">
+        <br> <b>•Yield:</b> 3178 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High yielding with pungent taste.\n</br>
+        <br> <b>•Area Occupied:</b> Hookah and chewing tobacco growing areas of North Bihar.\n</br>
+    </string>
+    <string name="GANDAKBAHAR">
+        <br> <b>•Yield:</b> 1450 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Late maturing.\n</br>
+        <br> <b>•Area Occupied:</b>North Bihar region.\n</br>
+    </string>
+    <string name="DP401">
+        <br> <b>•Yield:</b> 1670 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b> High yielding.\n</br>
+        <br> <b>•Area Occupied:</b> Chewing tobacco growing areas of North Bihar.\n</br>
+    </string>
+    <string name="GABTH">
+        <br> <b>•Yield:</b> 3741 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b> High yielding with good spangling and puckering.\n</br>
+        <br> <b>•Area Occupied:</b> Bidi tobacco growing areas of Middle Gujarat and Andhra Pradesh.\n</br>
+    </string>
+    <string name="GABT">
+        <br> <b>•Yield:</b> 4175 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>High Yielding.\n</br>
+        <br> <b>•Area Occupied:</b> Irrigated tobacco cultivated areas of Middle Gujarat.\n</br>
+    </string>
+    <string name="ABT">
+        <br> <b>•Yield:</b> 2774 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Resistant to root-knot disease.\n</br>
+        <br> <b>•Area Occupied:</b> Root-knot prone irrigated bidi tobacco growing areas of Anand, Kheda, Vadodara and Panchmahals districts of Gujarat.\n</br>
+    </string>
+    <string name="MRGTH">
+        <br> <b>•Yield:</b> 3793 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Resistant to TMV.\n</br>
+        <br> <b>•Area Occupied:</b> Irrigated bidi tobacco growing areas of Gujarat.\n</br>
+    </string>
+    <string name="GT9">
+        <br> <b>•Yield:</b> 3077 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Resistant to TMV.\n</br>
+        <br> <b>•Area Occupied:</b> Irrigated bidi tobacco growing areas of Gujarat.\n</br>
+    </string>
+    <string name="GT7">
+        <br> <b>•Yield:</b> 2535 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Drought tolerant.\n</br>
+        <br> <b>•Area Occupied:</b> Rainfed bidi tobacco growing areas of Gujarat.\n</br>
+    </string>
+    <string name="GT5">
+        <br> <b>•Yield:</b> 3300 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Tolerant to root-knot disease.\n</br>
+        <br> <b>•Area Occupied:</b> Bidi tobacco growing areas of Gujarat.\n</br>
+    </string>
+    <string name="A2">
+        <br> <b>•Yield:</b> 2555 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Tolerant to leaf burn and black shank.\n</br>
+        <br> <b>•Area Occupied:</b> Bidi tobacco growing areas of Gujarat, Karnataka, Maharashtra and Andhra Pradesh.\n</br>
+    </string>
+    <string name="A119">
+        <br> <b>•Yield:</b> 2625 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Resistant to leaf burn and tolerant to black shank diseases.\n</br>
+        <br> <b>•Area Occupied:</b> Bidi tobacco growing areas of Gujarat, Karnataka, Maharashtra and Andhra Pradesh.\n</br>
+    </string>
+    <string name="GT4">
+        <br> <b>•Yield:</b> 2841 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Tolerant to moisture stress and leaf burn disease.\n</br>
+        <br> <b>•Area Occupied:</b> Bidi tobacco growing areas of Gujarat.\n</br>
+    </string>
+    <string name="GTH1">
+        <br> <b>•Yield:</b> 3644 kg/ha. \n</br>
+        <br> <b>•Special Characters:</b>Tolerant to root-knot.\n</br>
+        <br> <b>•Area Occupied:</b> Irrigated bidi tobacco growing areas of Gujarat.\n</br>
+    </string>
+    <string name="NBD">
+        <br> <b>•Yield:</b> 3000 kg/ha (irrigated), 2200 kg/ha (rainfed). \n</br>
+    <br> <b>•Special Characters:</b>: High yielding with moderate resistance to brown lea spot, leaf suckers and low infestation of aphids, response to higher dose of nitrogen, performs better in harsh and severe situations.\n</br>
+    <br> <b>•Area Occupied:</b> : Bidi tobacco growing areas of Karnataka.\n</br>
+    </string>
+    <string name="VEDAGANGA">
+        <br> <b>•Yield:</b> 2500 kg/ha (irrigated), 1800 kg/ha (rainfed). \n</br>
+    <br> <b>•Special Characters:</b>:High yielding compared to A 119, better smoke qualities, low suckers\n</br>
+    <br> <b>•Area Occupied:</b> :Bidi tobacco growing areas of Belgavi district, Karnataka\n</br>
+    </string>
+    <string name="BHAVYASHREE">
+        <br> <b>•Yield:</b> 2800 kg/ha (irrigated), 1800 kg/ha (rainfed)\n</br>
+    <br> <b>•Special Characters:</b>:High yielding with tolerance to black shank disease. \n</br>
+    <br> <b>•Area Occupied:</b> :Bidi tobacco growing areas of Belgavi district of Karnataka. \n</br>
+    </string>
+    <string name="BHAGYASHREE">
+        <br> <b>•Yield:</b> 2500 kg/ha (irrigated), 1700 kg/ha (rainfed) \n</br>
+    <br> <b>•Special Characters:</b>:High yielding with tolerance to black shank disease. \n</br>
+    <br> <b>•Area Occupied:</b> :Bidi tobacco growing areas of Belgavi district of Karnataka. \n</br>
+    </string>
+    <string name="SPOORTHY">
+        <br> <b>•Yield:</b>2000 kg/ha (irrigated), 1200 kg/ha (rainfed). \n</br>
+    <br> <b>•Special Characters:</b>:High Yielding, Tolerant to black shank. \n</br>
+    <br> <b>•Area Occupied:</b>:Bidi tobacco growing areas of Belgavi district of Karnataka and Kolhapur and Sangli districts of Maharashtra.\n</br>
+    </string>
+    <string name="NPN190">
+        <br> <b>•Yield:</b>1500 kg/ha.\n</br>
+    <br> <b>•Special Characters:</b>:High Yielding, Tolerant to black shank disease. \n</br>
+    <br> <b>•Area Occupied:</b>:Bidi tobacco growing areas of Nipani tract of Karnataka.\n</br>
+    </string>
+
+    <string name="YB">
+         <br> <b>•Yield:</b> 2900 kg/ha \n</br>
+        <br> <b>•Special Characters:</b> High yielding\n</br>
+        <br> <b>•Area Occupied:</b> Burley tobacco growing areas of Andhra Pradesh</br>
+    </string>
+
+    <string name="BANKET">
+         <br> <b>•Yield:</b> 1800 kg/ha \n</br>
+        <br> <b>•Special Characters:</b>  Free from lodging and resistant to TMV \n</br>
+        <br> <b>•Area Occupied:</b> Light soils of Agency area in East Godavari, Vishakapatnam and Vizianagaram districts of Andhra Pradesh </br>
+    </string>
+
+    <string name="HDBRG">
+         <br> <b>•Yield:</b> 3000 kg/ha \n</br>
+        <br> <b>•Special Characters:</b>  High solanesol and biomass production \n</br>
+        <br> <b>•Area Occupied:</b> Central and Southern Black Soils of coastal districts of Andhra Pradesh and to a smaller extent in Telangana </br>
+    </string>
+
+    <string name="BURLEY21">
+         <br> <b>•Yield:</b> 1700 kg/ha \n</br>
+        <br> <b>•Special Characters:</b> High yielding with low TSNA \n</br>
+        <br> <b>•Area Occupied:</b> Light soils of Agency area in East Godavari, Vishakapatnam and Vizianagaram districts of Andhra Pradesh </br>
+    </string>
+
+
+    <string name="SoC">Soils are heavy black ranging from silt loam to clay and crop is raised on conserved moisture mostly as rainfed crop. In Kurnool district the annual average rainfall is 670.5 mm, 67% rainfall is received during South-West monsoons and 23% is received during North-West monsoons. Tobacco plant needs considerable amount of water to maintain turgidity and leaf expansion. On other hand, tobacco plants are sensitive to flooded/ waterlogged conditions.</string>
+
+    <string name="NuM">Tobacco seed is very small and egg shaped with thick seed coat. Average weight of seed is 0.08 – 0.09 mg. Tobacco seed readily germinates (95 % or over) in 4"-"5 days after sowing under suitable conditions. Optimum time for raising nursery is from second fortnight of July to first fortnight of August. Raised seedbeds of about 15 cm height, 1.0 m width and 10 m length with 50 cm between beds are ideal for nursery. Apply ammonium sulphate @ 100 g, super phosphate @ 300 g and potassium sulphate @ 100 g for 10 m2 nursery area as basal dose besides 25 kg FYM. Drench the bed with chlorpyriphos 20% EC @ 2 ml /l water one day before sowing. About 3 kg seed /ha of nursery area is optimum. Mix 3 g seed with 20 g sand and uniformly distribute over 10 m2 bed area. Cover the seed and slightly compact by rolling 9" diameter cement pipe. Cover the bed with available organic material like paddy straw, which should be removed 3"-"4 days after germination. Water the bed frequently (4"-"5 times a day) to keep it moist. After germination, apply ammonium sulphate at 25 g per 10 m2 bed at four days interval twice followed by 50 g per 10 m2 bed thrice at 4 days interval. </string>
+
+    <string name="FcM"><b>Land Preparation:</b>Land is ploughed (2-3 ploughings), harrowed (2 harrowings) or hoed during monsoon before commencement of planting season to keep the land free of weeds to bring the soil to a fine tilth, to improve the soil physical condition especially the moisture retentivity and see that there is minimum run-off of rain water, as tobacco crop is sensitive to water logged condition. It is later manured, planked and the planting rows are marked at a spacing of 75 x 75 cm.
+<br>\n</br>
+<b>Time of Planting:</b> Six to eight week old seedlings are to be planted during 1st fortnight of August to 1st fortnight of September.
+<br>\n</br>
+<b>Method of Planting:</b> Ridge planting.
+<br>\n</br>
+<b>Spacing:</b> 75 cm x 75 cm (17,777 plants/ha).
+<br>\n</br>
+<b>Irrigation:</b> The crop is generally grown as rainfed crop. During drought years irrigation water is given to the crop. Application of two irrigations with 30 mm each at 25 and 55 days after transplanting could be optimum for getting higher cured leaf yield and good quality of bidi tobacco in rainfed Vertisols of Andhra Pradesh.
+<br>\n</br>
+<b>Inter-Cultivation:</b> Regular inter-cultivation at weekly intervals checks the weed growth and also helps in the formation of soil mulch for soil moisture conservation.
+<br>\n</br>
+<b>Topping:</b> Topping is done manually at flower bud initiation leaving 14-16 leaves in bidi tobacco.
+<br>\n</br>
+<b>Sucker Control:</b> Desuckering is recommended manually as and when required or by application of decanol (7%) or royalton (4%) or neem oil emulsion (35%).
+<br>\n</br>
+<b>Fertilizer Application:</b> Recommended dose of fertilizer is 110 kg N, 70 kg P2O5 and 50 kg K2O /ha. Potassium is applied as sulphate of potash. Half of recommended nitrogen and total recommended phosphorus and potassium are applied as basal and remaining half of the nitrogen is applied at 25-30 days after transplanting. Application of nitrogen in organic - inorganic proportion of 25:75 with organic component of vermicompost is optimum for higher yield, quality and sustainability of soil fertility. Supplementation of N and K through foliar nutrition with 2.5% KNO3 or 2.5% AS + SOP twice at 45 and 60 days is recommended for higher cured leaf yield.
+<br>\n</br>
+ <b>Pest and Disease Management:</b>
+   <br>\n</br>
+<b>1. Tobacco caterpillar (Spodoptera litura):</b> Application of neem seed based kernel suspension (NSKS) @ 2% or NPV @ 250 LE /ha at 4 weeks age. When the pest reaches economic threshold level (6 damaged seedlings or one third instar larvae/ m2), apply emamectin benzoate @ 0.5 g or chlorantraniliprole @ 0.3 ml per litre of water. Trap crops viz., marigold and castor play an important role in trapping the larvae and eggs/egg masses.
+<br>\n</br>
+<b>2.Whitefly (Bemisia tabaci):</b> Destroy alternate weed hosts around tobacco nursery and field. Set up yellow sticky traps @ 12 traps /ha for monitoring the pest. When the population reaches 100 per trap, spray imidacloprid @ 0.3 ml or thiomethoxam @ 0.25 gm per litre of water at weekly intervals.
+<br>\n</br>
+<b>3. Damping-off (Pythium aphanidermatum):</b> Deep summer ploughing, formation of raised seed beds of 15 cm height and rabbing the seed bed are recommended. Apply bordeaux mixture @ 0.4% (copper sulphate 40 g + lime 40 g in 10 litres of water) or copper oxychloride @ 3 g /l with rose can two weeks after sowing. Spray metalaxyl 8% + mancozeb 64% WP @ 2 g/ l twice at 20 and 35 days after germination.
+<br>\n</br>
+<b>4. Black shank and leaf blight (Phytophthora parasitica var. nicotianae):</b> Drench the seed bed with bordeaux mixture @ 1% or copper oxychloride @ 3 g /l two to three days before sowing. Spray metalaxyl 8% + mancozeb 64% WP @ 2 g/l twice in the nursery at 20 and 35 DAS. While planting, apply 100 ml of bordeaux mixture @ 0.2% or copper oxychloride @ 2 g/ l in the planting hole.
+<br>\n</br>
+<b>5. Orobanche management (Orobanche cernua):</b> Deep summer ploughing is recommended in Orobanche infested fields. Avoid growing brinjal, tomato and bhendi in sick soils. Remove Orobanche before flowering 4 times at weekly intervals commencing from 40 DAP. Grow trap crops like jowar, gingelly, blackgram during kharif. Maize/ sorghum/gingelly-tobacco crop sequence is advisable.
+</string>
+    <string name="apfcm"><b>Land Preparation:</b>: Deep ploughing either with tractor or cattle drawn mouldboard plough as soon as the first showers are received will help in reduction of weed density, nematode population and soil borne pests and diseases. Three to four ploughings are necessary as preparatory tillage before planting to make the soil more pliable.
+<br>\n</br>
+<b>Time of Planting:</b>: In agency area planting Banket-A1 in the month of July was found to be beneficial. Delayed planting causes deterioration in leaf quality. In Vinukonda planting is done in September-October as rainfall is received late in this area.
+<br>\n</br>
+<b>Method of Planting:</b>  Monsoon crop is grown in ridges to give anchorage to the plant and to avoid the damage due to lodging or in the event of excess rains. At least 30 cm height ridge and furrows need to be formed across the slope. In Vinukonda area flat planting is done.
+<br>\n</br>
+<b>Spacing:</b> 90 m x 45 m (25,000 plants/ha).
+<br>\n</br>
+ <b>GapFilling:</b> Gap filling is to be completed within 7 days.
+<br>\n</br>
+<b>Irrigation:</b> When it is grown during kharif season irrigations may not be required in agency areas. But in Vinukonda area as the crop is cultivated during September onwards, two to three irrigations are required to maintain moisture at field capacity for improving yield and quality of FCV tobacco.
+<br>\n</br>
+<b>Inter-Cultivation:</b> Two to three inter-cultures with country plough and re-ridging with a ridger or a spade has to be done to provide sufficient anchorage to the plant and to provide proper drainage for excess rain water received during rains.Weeds are generally kept under check by summer cultivation and two to three inter-cultures given during the period of crop growth. If labor availability is there hand weeding is done or they can be brought under control by the application of weedicides like quizalofop-ethyl to control grasses.
+<br>\n</br>
+<b>Topping:</b> Topping is not practiced in agency area of East Godavari district. In uplands and in Vinukonda area topping is done for quality leaf production.
+<br>\n</br>
+<b>Sucker Control:</b> Desuckering is done manually or by applying fatty alcohol based suckericides.
+<br>\n</br>
+<b>Fertilizer Application: (ha):</b>
+<br>\n</br>
+<b><i>Organic Fertilizers:</i></b> Application of organic manures in the form of FYM 10 t/ha or crop sown and insitu green manure is recommended.
+<br>\n</br>
+<b><i>Inorganic Fertilizers:</i></b> Recommended dose of fertiisers is 125-50-50 NPK/ha. As soils in Vinukonda region are low in N, 25% of higher N is required for getting optimum yield. Ammonium sulphate as source of N, di-ammonium phosphate (DAP) or SSP as a source of P and potassium sulphate (SOP) as a source of K are recommended in the basal dose and calcium nitrate (CN) or ammonium sulphate or urea and SOP are suggested as top dressing. Calcium deficiency is usually found in the crop hence calcium source is preferable in the second dose, especially in the agency areas. Total P and 62.5 kg N and 25 kg K2O/ha are to be applied on 10th day after planting by dollop method and the remaining 62.5 kg N and 25 kg K2O/ha have to be applied as top dress on the 30th day after planting by dollop method.
+<br>\n</br>
+<b>Pest and Disease management practices for Burley tobacco may be followed as same as Pest and Disease management practices of FCV tobacco.</b>
+
+</string>
+
+    <string name="PhM">
+<b>Harvesting:</b> Mature leaves showing full spangle development are harvested priming wise and placed with their upper surface facing the ground for drying (sun drying).
+<br>\n</br>
+<b>Curing and Grading:</b> After drying, lamina (bhuka) is stripped off from the mid ribs. After 4-5 days the remaining pieces of lamina and veins adhering to the leaf mid ribs are separated and heaped. After drying, grade as bhuka (pure lamina), geran (lamina pieces and veins), galia (sand leaves) and lakada (midribs).
+
+</string>
+    <string name="GSC">Sandy loam or loamy sands with high organic matter and good drainage are suitable. The site should be away from shade and near to irrigation source.</string>
+
+    <string name="GNM">Deep summer ploughing is to be done in the nursery beds and rabbing is to be carried out with farm waste such as bajra husk @ 7 kg/m2 or cover with 100 gauge plastic film in the month of May for 15 days. Apply 180 kg N/ha of which 45 kg N from FYM and 90 kg N from castor cake as basal i.e., 20 days before sowing. The remaining 45 kg N is to be applied as top dress in two splits as foliar spray of urea @ 0.5 to 1%. Nursery beds of 1.5 m width and 20 m length are to be prepared leaving drainage channels of 50 cm width in between the beds. Nursery is to be sown during first week of July at a seed rate of 5 kg/ha. Mix the seed with dry soil or with water in rosecan and broadcast or drench uniformly on the bed. Cover the beds with wheat straw or agro shade net of 90%.</string>
+
+    <string name="GFCM">
+<b>Land Preparation:</b> Well drained sandy loam to silty loam soils are suitable for bidi tobacco cultivation. Deep ploughing or tractor cultivation twice in summer is recommended.
+<br>\n</br>
+<b>Time of Planting:</b> Second fortnight of August to third week of September.
+<br>\n</br>
+<b>Method of Planting:</b> Planting is done on the ridges.
+<br>\n</br>
+<b>Spacing:</b> 90 x 75 cm (14,814 plants/ha) for all varieties. 90 x 105 cm (10,582 plants/ha) for hybrid and GABT 11 tobacco.
+<br>\n</br>
+<b>Irrigation:</b> Four to five irrigations each of 50 mm depth at an interval of 20-25 days after the cessation of monsoon.
+<br>\n</br>
+<b>Inter-Cultivation:</b> Eight inter-cultures at 8 days interval commencing from 20 days after transplanting is recommended.
+<b>Topping:</b>
+<br>\n</br>
+Anand 2, Anand 119, GT 4, GT 5 and GT 9 18 - 20 leaves
+<br>\n</br>
+GT 7 and ABT 10 20 - 22 leaves
+<br>\n</br>
+MRGTH 1 and GABT 11 22 - 24 leaves
+<br>\n</br>
+<b>Sucker Control:</b> Suckers are removed manually every week after topping. Generally 6 to 7 rounds of desuckering is required. After topping apply pendimethalin @ 0.45% along with 2% urea solution in the axil of the leaves with dropping bottle.
+<br>\n</br>
+<b>Fertilizer Application:</b>
+<br>\n</br>
+<b><i>Organic Fertilizers:</i></b> Green manuring with sunn hemp @ 100 kg/ha in last week of June. Incorporate after 40 to 45 days or apply 12.5 t FYM/ha.
+<b><i>Inorganic Fertilizers:</i></b> Apply 140 or 180 kg N/ha, of which 125 to 160 kg N/ha from ammonium sulphate as basal, 10 to 15 days prior to planting in facharakhed (closely opened furrows) and apply remaining 16 to 20 kg N/ha at 10-15 days after planting through ammonium sulphate. If green manuring is not practiced additional 25% N/ha through organic manure either from castor cake or poultry manure 20 days before land preparation. For hybrid bidi tobacco apply 180 to 220 kg N/ha of which 25% N/ha from ammonium sulphate as basal and remaining nitrogen from urea in three equal splits at 20, 50 and 70 days after transplanting.
+<br>\n</br>
+<b>Pest and Disease Management:</b>
+ <br>\n</br>
+<b>1. Rove beetle (Bledius gracillicornis):</b> The pest can be managed effectively by one drenching with either chlorpyriphos 0.04% @ 2 l per bed of one m2 (one week prior to sowing) or NSKS 5% @ 2 l per bed (10 days after sowing).
+<br>\n</br>
+<b>2. Leaf eating caterpillar (Spodoptera litura):</b> Deep ploughing in summer. Use of light traps. Set up pheromone traps @ 2 traps/ha to monitor the adult (moth) populations. Grow castor as ovipositional trap crop. Collect egg mass and the gregarious early stages of caterpillars in clusters on castor and destroy them. Avoid migration of caterpillars by digging a trench 30 cm deep and 25 cm wide with perpendicular sides around the infested fields. Apply Nuclear Polyhedrosis Virus (NPV) at 250 LE/ha with molasses (2.5 kg/ha) in the evening hours. Apply Bt based formulations @ 0.75 kg or 1 kg/ha. Spraying of emamectin benzoate @ 0.0025%, at 30 to 40 days after sowing of seeds is also recommended.
+<br>\n</br>
+<b>3. Tobacco stem borer (Scrobipalpa heliopa):</b> During the summer, after harvest of the crop, stubbles should be dug out and destroyed. Suckers should be removed regularly in calcutti tobacco. Only disease free healthy seedlings are to be transplanted. Spraying with quinalphos @ 0.05% twice at an interval of 15 days in nursery and two sprays at 10 days interval in transplanted crop is effective.
+<br>\n</br>
+<b>4. Whitefly (Bemisia tabaci):</b> Application of dimethoate @ 0.045% or methyl-s-demeton @ 0.037% or monocrtophos @ 0.06% gives effective protection. The insecticide should be applied twice, at 15 days interval (first spray 30 days after sowing of seeds in nursery). In field crop 2 to 3 sprays of above insecticides at 10 days interval commencing from 15 days after planting are recommended.
+<br>\n</br>
+<b>5. Tobacco bud worm/ Capsule borer (Heliothis virescens):</b> Deep ploughing in summer. Pheromone/light trap for monitoring the pest. Marigold as ovipositional trap crop. Application of microbial insecticide like HaNPV @ 250 LE/ha or Bt @ 1 kg/ha or chemical insecticides like DDVP @ 0.05% or quinalphos @ 0.05% or fenvalrate @ 0.01% is recommended.
+<br>\n</br>
+<b>6. Cutworm (Agrotis ipsilon Hufnagel):</b> Clean cultivation, deep summer ploughing, regular interculturing, crop rotation are to be followed. Keep the heaps of grass as a shelter during day time and destroy them in the next day. In the early stages, pick the insects and are to be destroyed. The adult insects can be controlled by light traps. Application of methyl parathion @ 2% dust or quinalphos @ 1.5% dust @ 25 kg/ha on soil near the stem is effective.
+<br>\n</br>
+<b>7. Seed beetle (Lasioderma serricorne):</b> Malathion as seed treatment @ 1 l/t seed gives protection against this pest up to 8-9 months.
+<br>\n</br>
+<b>8. Damping-off (Pythium aphanidermatum):</b> Drenching tobacco seed beds with bordeaux mixture (6:3:100) at 3 l/m2 as and when needed. Pre-seeding drench application of metalaxyl MZ @ 2.16 kg/ha (Ridomil MZ 72 WP @ 3.0 kg/ha) followed by two or three post-emergence applications at the same rate from 20-25 days of seeding as and when required. Azoxystrobin @ 0.023%, fenamidon 10% + mancozeb 50% @ 0.12% and 0.18%, copper hydroxide @ 0.2%.
+<br>\n</br>
+<b>9. Frog-eye spot disease (Cercospora nicotianae):</b> Spraying of carbendazim @ 0.025% starting from nursery as and when required at an interval of 15 days. Hexaconazole @ 0.1%, propeneb @ 0.225%, carbendazim @ 12% + mancozeb 63% @ 0.225% are also recommended.
+<br>\n</br>
+<b>10. Brown spot (Alternaria longipes):</b> Spraying of mancozeb or zineb @ 2.5 kg/ha. Alternate spray of carbendazim (125 g/ha) and mancozeb (1.875 kg/ha) is effective.
+<br>\n</br>
+<b>11. Leaf curl (Tobacco leaf curl geminivirus):</b> Application of dimethoate @ 0.045% or methyl-s-demeton @ 0.037% gives effective protection. The insecticide should be applied twice, at 15 days interval (first spray 30 days after sowing of seeds in nursery). In field crop 2 to 3 sprays of above insecticides at 10 days interval commencing from 15 days after planting are recommended.
+<br>\n</br>
+<b>12. Mosaic (Tobacco Mosaic Virus):</b> Grow resistant variety GT 9 and hybrid MRGTH 1.
+<br>\n</br>
+<b>13. Nematodes (Meloidogyne Spp.):</b> Soil solarization with clear LDPE plastic film (25 μm) for 15 days during summer. Rabbing of root-knot infested nursery area in split furrows (9" apart and 6" deep) with tobacco seed husk or bajra husk or wheat straw + tobacco stalks (50:50) @ 6.9 kg/m2. Application of carbosulfan @ 2.5 l/ha a day prior to seeding and at 25 DAS. Grow root-knot nematodes resistant variety Anand Bidi Tobacco 10 (ABT 10).
+
+</string>
+
+    <string name="GPHM">
+
+<b>Harvesting:</b> Bidi tobacco crop takes around 160-180 days to attain maturity. It is harvested by adopting leaf by leaf or whole plant or Ghugharo method (stripping off leaf lamina by retaining mid rib and allowing the leaf to sun dry on soil).
+<br>\n</br>
+<b>Curing:</b> Keep matured harvested leaves in the field for 6 to 7 days for sun curing. After the drying completely, collect and keep sun cured leaves in threshing yard for cleaning and sorting. Store the cured leaves (bhuka) in air-circulated godown until sale.
+
+</string>
+
+    <string name="Karnataka">Bidi tobacco is an important commercial crop in Nipani tract, Karnataka. The crop is cultivated both under rainfed and irrigated conditions during August-January. Presently in Karnataka, the crop occupies an area of 11,675 hectares with a production of about 14.25 million kg and a productivity of 1,221 kg/ha.</string>
+
+    <string name="KStation">The Agricultural Research Station, Nipani was established in the year 1938 to conduct research on bidi tobacco as Nipani area of Belagavi district is known for production of excellent quality bidi tobacco in the country. The research on tobacco was first started at Soundalaga 10 km away from Nipani towards North on the National Highway-4 in the year 1942. Later, it was shifted to the present site in the year 1961. In the beginning, the research on both FCV and bidi tobacco were started during 1942. Later, it was proved that cultivation of FCV was not economical due to unfavourable climatic condition. Since then, the research on bidi tobacco has been concentrated at this station. The research on bidi tobacco got a fillip when the AICRP on bidi tobacco started functioning at this station from 01.04.1970. It was further strengthened when the NARP Phase-II came into operation in 1990.  Research on various aspects of bidi tobacco has been in progress during the last 50 years. Several profitable technologies in bidi tobacco cultivation have been recommended to the farming community and promising varieties of bidi tobacco were released from the station since its establishment.</string>
+
+    <string name="KContact"> Head, Agricultural Research Station (ARS), University of Agricultural Sciences, Dharwad, Nipani – 591 237, Karnataka
+<br>\n</br>
+        Email: <b><i><u>arsnipani@gmail.com</u></i></b>
+</string>
+
+    <string name="KSC"> Bidi tobacco can be grown in a wide range of soils from medium black to red soils. The crop can be grown successfully with a rainfall of 600 to 900 mm and a temperature range from 16 to 400C.</string>
+
+    <string name="KNM"> Nursery is grown on raised beds. A bed of 10 m length, 1 m width and 15 cm height is required for raising seedlings/ha. FYM @ 90 kg or 45 kg of compost or 45 kg of pressmud along with 250 g of ammonium sulphate and 250 g of sulphate of potash has to be incorporated in each bed. Seeds are mixed with sand and sown. Irrigation should be provided twice a day i.e., in morning and evening. The seedlings are ready for transplanting in 6 to 7 weeks after sowing. Recommended seed rate is 10 "-" 15 kg/ha (10,000 "-" 15,000 seedlings/ha).</string>
+
+    <string name="KFCM">
+
+<b>Land Preparation:</b> Deep ploughing followed by passing cultivator with two harrowings is sufficient to bring the soil to fine tilth. One flanking is necessary for making the land uniform and after that ridges and furrows formed for transplanting.
+<br>\n</br>
+<b>Time of Planting:</b> Planting of tobacco between 10th of August to 25th of August is the optimum in Nipani tract. Around 95% of the farmers’ have adopted this technology.
+<br>\n</br>
+<b>Method of Planting:</b> The ridges and furrow transplanting is recommended to avoid excess rain.
+<br>\n</br>
+<b>Spacing:</b> 100 x 75 cm (13,333 plants/ha) was found optimum.
+<br>\n</br>
+<b>Irrigation:</b> Irrigating tobacco crop at 65, 85, 105 and 125 days after planting is essential.
+<br>\n</br>
+<b>Inter-Cultivation:</b> Three to four times weeding and inter-cultivation is recommended. Sand leaves should be removed up to 10-14 cm of the plant height before topping.
+<br>\n</br>
+<b>Topping:</b> Topping at 16 leaves under rainfed condition and 18 to 20 leaves under irrigated condition is better to obtain optimum yield of tobacco with better quality. Topping should be done after 4 to 6 weeks of transplanting, leaving 16 to 18 leaves per plant. Frequent removal of suckers after topping should be done to get higher yield.
+<br>\n</br>
+<b>Sucker Control:</b> Khudaband (4%) and Stomp (1.5%) were found to be most effective suckericides in controlling the suckers of tobacco. They have to be applied twice; first application after topping and second application after 20 days of topping.
+<br>\n</br>
+<b>Fertilizer Application: (ha):</b>
+<br>\n</br>
+<b><i>Organic Fertilizers:</i></b> FYM or compost @ 12.5 tonnes or pressmud @ 10 tonnes.
+<br>\n</br>
+<b><i>Inorganic Fertilizers:</i></b> Fertiliser dose of 125 kg N - 50 kg P2O5- 40 kg K2O is recommended. Half of the N and 100% of P and K along with 20 kg of ZnSO4 are to be incorporated in the main field before transplanting. Top dressing of the remaining 50% N is to be given 4 weeks after transplanting.
+<br>\n</br>
+<b>Pest and Disease Management</b>
+<br>\n</br>
+<b>1. Cutworms (Agrotis ipsilon Hufnagel):</b> Drench the planting spot with 2 ml chloropyriphos 20 EC or 1g methomyl 40 SP dissolved in 1 litre of water or apply neem seed powder @ 5 g/ planting spot at the time of transplanting.
+<br>\n</br>
+<b>2. Tobacco bud worm (Heliothis virescens):</b> Spray chloropyriphos @ 2 ml or monocrotophos @ 1.5 ml or carboryl @ 3 g or quinolphos @ 2 ml/ lit of water. Spray Nuclear Polyhydrosis Virus (NPV) @ 100 LE in 1000 litre of water/ha or Bacillus thuringenesis (Bt) @ 1 kg/ha or 1% NSKE (Neem Seed Kernel Extract) dissolved in 1 litre of water. Install pheromone traps @ 4 no.s/acre.
+<br>\n</br>
+<b>3. Aphids (Myzus nicotianae):</b> Spray monocrotophos 36 SL @ 1 ml or dimethoate 30 EC @ 2 ml or oxydematon methyl 25 EC @ 2 ml or acephate 75 SP @ 1 g or imidachloprid @ 17.8 SL @ 0.3 ml per litre of water.
+<br>\n</br>
+<b>4. Whitefly (Bemisia tabaci):</b> Spray monocrotophos 36 SL @ 1 ml or dimethoate 30 EC @ 2 ml or oxydematon methyl 25 EC @ 2 ml or acephate 75 SP @ 1 g or imidachloprid @ 17.8 SL @ 0.3 ml per litre of water.
+<br>\n</br>
+<b>5. Damping-off (Pythium aphanidermatum):</b> Deep ploughing of nursery area during summer. Raise seed beds of 15 cm height, 10 m length and 1 m width to avoid water stagnation. Drenching the seed beds one day before sowing with 2.5 g copper oxychloride 50 WP or 2.5 g metalaxyl 4% + mancozeb 64% or metalaxyl MZ 68 WP or 0.5 percent bordeaux mixture. Spray at 2, 3, 4 and 5 weeks after sowing with above mentioned pesticides as and when necessary. Sow optimum seed rate of 0.5 g/m2. Avoid water stagnation.
+<br>\n</br>
+<b>6. Black shank (Phytophthora nicotianae):</b> Deep ploughing in summer destroys the fungus. Avoid planting of diseased seedlings. Crop rotation with groundnut or soybean followed by rabi jowar or sugarcane in Nipani area may be followed. Avoid stagnation of water and excess soil moisture. If possible drench the planting spot with metalaxyl 4% @ 2 g + mancozeb 64% WP @ 2 g per litre water or 2.5 g copper oxychloride 50 WP or with 0.5% bordeau mixture. Remove the infested plants and destroy.
+<br>\n</br>
+<b>7. Root-knot (Meloidogyne spp.):</b> Deep ploughing in summer, sunn hemp green manuring and recommended. Apply poultry manure @ 10 t/ha before transplanting. Apply carbofuran 3G @ 10-12 kg/acre or ebufos @ 4 kg/acre or 0.4 t poultry manure + 2 kg carbofuran 3G @ 100 g per planting spot before planting. Crop rotation with groundnut or soybean followed by rabi jowar or sugarcane in Nipani area.
+<br>\n</br>
+<b>8. Tobacco Mosaic Disease (Tobacco Mosaic Virus):</b> Plant healthy seedlings. Remove and destroy the affected plants. Spray the crop with neem leaf extract @ 2%.
+<br>\n</br>
+<b>9. Leaf curl (Tobacco leaf curl geminivirus):</b> Remove and destroy diseased plant. Plant healthy seedlings. Destroy the weeds harbouring whiteflies and control the whiteflies through insecticides.
+<br>\n</br>
+<b>10. Leaf spot diseases: </b>
+<br>\n</br>
+<b>i) Frog eye leaf spot (Cercospora nicotianae):</b> Spray carbendazim 50% WP @ 1 g/litre of water or hexaconazole 5 EC @ 1 ml /litre of water. Avoid excess irrigation.
+<br>\n</br>
+<b>ii) Brown leaf spot( Alternaria alternata):</b> Spray mancozeb 75% WP @ 2 g/ litre of water.
+
+</string>
+
+    <string name="KPHM">
+<b>Harvesting:</b> Harvest the crop after maturity when maximum number of leaves develop puckering, spangling and turn yellowish green colour. Harvesting is generally carried out in the morning hours.
+<br>\n</br>
+<b>Curing:</b> Dry the harvested plants in sunlight. Dried leaves are powdered by separating the midrib.
+
+
+</string>
+    <string name="title_activity_nphmactivity">NPHMActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

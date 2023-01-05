@@ -1,0 +1,16 @@
+package com.example.myapplication.NONFCV.Cheroot.ChInfra.ChVarieties.ChGap;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+import com.example.myapplication.R;
+
+public class ChContactActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_ch_contact);
+    }
+}

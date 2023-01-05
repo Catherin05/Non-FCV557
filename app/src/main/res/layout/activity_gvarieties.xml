@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NONFCV.Bidi.Gujarat.GVarieties.GVarietiesActivity">
+
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/backgroundimage"
+        android:gravity="center"
+        android:orientation="horizontal"
+        tools:ignore="ObsoleteLayoutParam">
+
+
+        <ImageView
+            android:layout_width="46dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/ctrilogo"
+            tools:ignore="ContentDescription,RtlHardcoded" />
+
+        <TextView
+            android:id="@+id/allindiaContent"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:text="ALL INDIA NETWORK PROJECT ON TOBACCO ICAR-CENTRAL TOBACCO RESEARCH INSTITUTE  RAJAHMUNDRY,AP:533105"
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+        <ImageView
+            android:layout_width="46dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/icarlogo"
+            tools:ignore="ContentDescription,RtlHardcoded" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header"
+
+        android:alpha="0.9"
+        android:background="@drawable/bgimage"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gvarieties"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="Varieties"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gTypeOne"
+            android:layout_below="@+id/gvarieties"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp">
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="GABTH-2"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginRight="15dp"/>
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="GABT 11"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginLeft="15dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gTypeTwo"
+            android:layout_below="@+id/gTypeOne"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp">
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="ABT 10"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginRight="15dp"/>
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="MRGTH 1"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginLeft="15dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gTypeThree"
+            android:layout_below="@+id/gTypeTwo"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp">
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="GT 9"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginRight="15dp"/>
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="GTH 1"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginLeft="15dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gTypeFour"
+            android:layout_below="@+id/gTypeThree"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp">
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="GT 7"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginRight="15dp"/>
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="GT 5"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginLeft="15dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gTypeFive"
+            android:layout_below="@+id/gTypeFour"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp">
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="A 2"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginRight="15dp"/>
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:text="A 119"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded"
+            android:layout_marginLeft="15dp"/>
+        </LinearLayout>
+        <Button
+            android:id="@+id/button11"
+            android:layout_below="@id/gTypeFive"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_button"
+            android:layout_centerHorizontal="true"
+            android:text="GT 4"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="normal"
+            tools:ignore="HardcodedText,RtlHardcoded" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minLines="3"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:text="©2022 Reserved to Central Tobacco Research Institute."
+            android:textColor="#000000"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText,NotSibling" />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

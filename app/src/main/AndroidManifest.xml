@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myapplication" >
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication"
+        tools:targetApi="31" >
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NAVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RGVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.AzadKanchanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.ArR27Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UTVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.UTInfra.UTVarieties.UTGap.UttarPradeshActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.GC1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.GCT2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.GCT3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.DCT4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.GCT5Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RInfra.RVarieties.RGap.RGujaratActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.ONMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.GajapatiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OcontactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NPInfra.NPVarieties.NpGap.OdishaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.PrabhatActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.ViswanathActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NatuSpecialActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.BhairaviActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NInfra.NVarieties.NGap.NAPActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.DD437Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.SonarActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.DharlaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.TorsaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MWestBengalActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MInfra.MVarieties.MGap.MInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.DR1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LankaSpecialActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LInfra.LVarieties.LGap.LAPActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.PodaliActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.ChamaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.ManasiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JStationctivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JInfra.JVarieties.JGap.JWestBengalActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.ChTamilNaduActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.CHMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.CHNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.CHPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.CHFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.CHSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.BhavaniActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.SendarapattyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.SangamiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.ChContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.ChStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.ChGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.ChVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.ChInfra.ChVarieties.ChGap.ChInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Cheroot.CherootActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.VairamActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.ThangamActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.BhagyaLakshmiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.MaragadhamActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.MeenaskhiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.AbhiramiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.KaviriActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.MeenaskhiCRActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.KamatchiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.AbhiramiCRActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TNInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Tamilnadu.TInfra.TVarieties.TGap.TamilNaduActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.GMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.GPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.GFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.GNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.GSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.GT6Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.GT8Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.CGContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.CGStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.CGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.CGVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.CGInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.ChewingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.DP401Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.GANDAKBAHARActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.SONAActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.PRABHAActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.PUSATOBACCO76Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.VAISHALISPECIALActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.LICHCHAVIActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.BContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.BStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.BGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.BVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.BinfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Gujarat.GInfra.GVarieties.GGap.GujaratActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Chewing.Bihar.BInfra.BVarieties.BGap.BiharActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APMarketingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.Burley21Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.HdbrgActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.BanketActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.YBActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APRInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KNPN190Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KSPOORTHYActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KBHAVYASHREEActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KBHAGYASHREEActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KVEDAGANGA1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KNBDActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KMarketActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KPHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KFCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KNMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KSCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KGapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Karnataka.KInfra.Kvarieties.KGap.KRInfraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GGAP.GGaPActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GGAP.GmarketActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GGAP.GphMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GGAP.GfcMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GGAP.GnMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GGAP.GsoCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.GAP.GAPActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.GAP.MarketActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.GAP.PHMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.GAP.FCMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.GAP.NMActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.GAP.SoCActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.GT4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.A119Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.A2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.GT5Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.GT7Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.GTHActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.GT9Activity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.MRGTHActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.ABTActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.GABTActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.GABTHActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GVarieties.GVarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GInfra.GContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GInfra.GStationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.Gujarat.GInfra.GResearchInfrastructureActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.GujaratActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.varieties.ABDActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.varieties.NandyalaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.varieties.VarietiesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.RInfra.ContactActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.RInfra.StationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.AP.RInfra.ResearchInfrastructureActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.KarnatakaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.ApActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Rustica.RusticaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Oriental.OrientalActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NatuPikka.NatuPikkaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Motihari.MotihariActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Lanka.LankaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Jati.JatiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Burley.BurleyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.Bidi.BidiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.TypesOfTobaccoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NONFCV.NONFCVActivity"
+            android:exported="true" />
+        <activity
+            android:name=".startup.SplashActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FCV.FCVActivity"
+            android:exported="true" />
+        <activity
+            android:name=".startup.HomeScreenActivity"
+            android:exported="true"
+            tools:ignore="MissingClass" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

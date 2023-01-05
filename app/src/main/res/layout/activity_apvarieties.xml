@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NONFCV.Burley.AP.APInfra.APVarieties.APGap.APVarietiesActivity">
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/backgroundimage"
+        android:gravity="center"
+        android:orientation="horizontal"
+        tools:ignore="ObsoleteLayoutParam">
+
+
+        <ImageView
+            android:layout_width="46dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/ctrilogo"
+            tools:ignore="ContentDescription,RtlHardcoded" />
+
+        <TextView
+            android:id="@+id/allindiaContent"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:text="ALL INDIA NETWORK PROJECT ON TOBACCO ICAR-CENTRAL TOBACCO RESEARCH INSTITUTE  RAJAHMUNDRY,AP:533105"
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+        <ImageView
+            android:layout_width="46dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/icarlogo"
+            tools:ignore="ContentDescription,RtlHardcoded" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header"
+
+        android:alpha="0.9"
+        android:background="@drawable/bgimage"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gvarieties"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="Varieties"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gTypeOne"
+            android:layout_below="@+id/gvarieties"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp">
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/custom_button"
+                android:text="YB 22"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textStyle="normal"
+                tools:ignore="HardcodedText,RtlHardcoded"
+                android:layout_marginRight="15dp"/>
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/custom_button"
+                android:text="BANKET A1"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textStyle="normal"
+                tools:ignore="HardcodedText,RtlHardcoded"
+                android:layout_marginLeft="15dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gTypeTwo"
+            android:layout_below="@+id/gTypeOne"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp">
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/custom_button"
+                android:text="HDBRG"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textStyle="normal"
+                tools:ignore="HardcodedText,RtlHardcoded"
+                android:layout_marginRight="15dp"/>
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/custom_button"
+                android:text="BURLEY 21"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textStyle="normal"
+                tools:ignore="HardcodedText,RtlHardcoded"
+                android:layout_marginLeft="15dp"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minLines="3"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:text="©2022 Reserved to Central Tobacco Research Institute."
+            android:textColor="#000000"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText,NotSibling" />
+
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

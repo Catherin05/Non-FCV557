@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NONFCV.TypesOfTobaccoActivity">
+
+    <!-- Header aligned to top -->
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        android:background="@drawable/backgroundimage"
+        android:gravity="center"
+        >
+
+
+        <ImageView
+            android:layout_width="46dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/ctrilogo"
+
+
+            />
+
+        <TextView
+            android:id="@+id/allindiaContent"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="20dp"
+
+            android:maxLines="4"
+            android:text="@string/header"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="46dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icarlogo"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="20dp"
+
+            />
+
+    </LinearLayout>
+
+    <!-- Footer aligned to bottom -->
+
+
+
+    <!-- Content below header and above footer -->
+
+    <RelativeLayout
+        android:id="@+id/content"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/header"
+        android:alpha="0.9"
+        android:background="@drawable/bgimage"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@id/types"
+            android:text="@string/typesoftobacco"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="20dp"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/typeOne"
+            android:layout_below="@+id/types"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp">
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/BIDI"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"
+
+                />
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/BURLEY"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/typeOne"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/typeTwo">
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/CHEWING"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"/>
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/CHEROOT"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/typeTwo"
+            android:orientation="horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/typeThree">
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/CIGAR"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"/>
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/JATI"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/typeThree"
+            android:orientation="horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/typeFour">
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/LANKA"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"/>
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/MOTIHARI"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/typeFour"
+            android:orientation="horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/typeFive">
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/NATUPIKKA"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"/>
+            <Button
+                android:id="@+id/button10"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:text="@string/OREINTAL"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@drawable/custom_button"
+                android:layout_margin="10dp"
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/typeSix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/typeFive"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button11"
+                android:layout_width="120dp"
+                android:layout_height="35dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/custom_button"
+                android:text="@string/RUSTICA"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                />
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+                android:text="©2022 Reserved to Central Tobacco Research Institute."
+                android:textColor="#000000"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText,NotSibling" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>
